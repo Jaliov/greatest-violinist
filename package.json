@@ -3,6 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jaliov.github.io/greatest-violinist",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
