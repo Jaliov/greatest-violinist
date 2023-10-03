@@ -6,8 +6,12 @@ function App() {
  
 
   return (
-    <div className="dum">
-      <Bio name="Jascha Heifetz" />
+   
+        <div id="main">
+          <h1 id="title">
+          Jascha Heifetz, The Greatest Violinist!
+          </h1>
+      <Bio />
     </div>
   );
 };

@@ -11,10 +11,7 @@ const Bio = () => {
       <div
         style={{ backgroundColor: "rgb(97, 11, 11, 0.2)", margin: "0 5% 0 5%" }}
       >
-        <div id="main">
-          <h1 id="title">
-          Jascha Heifetz, The Greatest Violinist!
-          </h1>
+      
 
           <h3 id="img-caption">
             <em>
@@ -329,9 +326,11 @@ const Bio = () => {
             </div>
           </div>
         </div>
-      </div>
-    );
-  }
+   
+    )
+              };
+  
+
 
 
 export default Bio;
