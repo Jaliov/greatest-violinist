@@ -13,7 +13,7 @@ const Bio = () => {
       >
         <div id="main">
           <h1 id="title">
-       Test
+          Jascha Heifetz, The Greatest Violinist!
           </h1>
 
           <h3 id="img-caption">
@@ -25,7 +25,7 @@ const Bio = () => {
           </h3>
           <p style={{ marginBottom: "50px" }}>
             <a href="#HeifetzClip" class="tributeInfo">
-              Hear Heifetz play!
+              Watch Heifetz play!
             </a>
           </p>
           <div className="tributeInfo">
